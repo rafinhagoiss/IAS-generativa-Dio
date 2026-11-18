@@ -10,7 +10,8 @@ a IA utilizada para esse projeto foi "https://gamma.app/"
 Existe muita pessoas que nao tem o conhecimento de como uma IA funciona entao eu pedi ajuda da Ia pra me descreve isso        
 
 ## 🚀 Resultados
-aqui esta o meu projeto [Fake-ou-natty.pdf](https://github.com/user-attachments/files/35037060/Fake-ou-natty.pdf)
+aqui esta o meu projeto [Fake-ou-natty-Um-guia-divertido-de-IA-generativa.pdf](https://github.com/user-attachments/files/35037665/Fake-ou-natty-Um-guia-divertido-de-IA-generativa.pdf)
+
 
 
 ## 💭 Reflexão (Opcional)
